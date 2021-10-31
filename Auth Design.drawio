@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T15:44:51.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="cN1ySN_ijNY7EdkL08jw" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T16:09:51.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="udCCG8UGQvizgEOVkV9W" version="15.6.3" type="github" pages="2">
   <diagram name="Login" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -161,6 +161,49 @@
         </mxCell>
         <mxCell id="D3JZG9S5xgHQ85B02sTl-24" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Dialog will be occurred and user need to change password if it&#39;s the first time user login to HYKE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="550" y="336.25" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wdvu2xUOF4kaD3dNQZho" name="Overview">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-0" />
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-1" parent="ZxhcZnh28SaxuGn8HQxv-0" />
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="ZxhcZnh28SaxuGn8HQxv-1" source="ZxhcZnh28SaxuGn8HQxv-2" target="ZxhcZnh28SaxuGn8HQxv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;/login&lt;br&gt;/forgot-password&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ZxhcZnh28SaxuGn8HQxv-5">
+          <mxGeometry x="-0.1967" y="2" relative="1" as="geometry">
+            <mxPoint x="-35" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-2" value="&lt;b&gt;Business User&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="50" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="ZxhcZnh28SaxuGn8HQxv-1" source="ZxhcZnh28SaxuGn8HQxv-3" target="ZxhcZnh28SaxuGn8HQxv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-3" value="&lt;b&gt;HYKE Front-end&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png;fontSize=12;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="270" y="155" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-4" value="&lt;b&gt;AWS Cognito&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="690" y="169" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="ZxhcZnh28SaxuGn8HQxv-1" source="ZxhcZnh28SaxuGn8HQxv-8" target="ZxhcZnh28SaxuGn8HQxv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-8" value="amazon-cognito-identity-js" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png;fontSize=14;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="480" y="166.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-one-128.png;fontSize=14;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="170" y="155" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-two-128.png;fontSize=14;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="410" y="154" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-three-128.png;fontSize=14;" vertex="1" parent="ZxhcZnh28SaxuGn8HQxv-1">
+          <mxGeometry x="610" y="150" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
