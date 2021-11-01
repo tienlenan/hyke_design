@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T12:46:04.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="C1JWIKHMm76C3wqvJKre" version="15.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-01T12:47:23.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="kEWuyb802RagO00Myh7c" version="15.6.3" type="github" pages="3">
   <diagram id="Wdvu2xUOF4kaD3dNQZho" name="Overview">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,9 +7,9 @@
         <mxCell id="ZxhcZnh28SaxuGn8HQxv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="ZxhcZnh28SaxuGn8HQxv-1" source="ZxhcZnh28SaxuGn8HQxv-2" target="ZxhcZnh28SaxuGn8HQxv-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxhcZnh28SaxuGn8HQxv-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;/login&lt;br&gt;/forgot-password&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ZxhcZnh28SaxuGn8HQxv-5" vertex="1" connectable="0">
+        <mxCell id="ZxhcZnh28SaxuGn8HQxv-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;/signin&lt;br&gt;/forgot-password&lt;br&gt;/signout&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ZxhcZnh28SaxuGn8HQxv-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1967" y="2" relative="1" as="geometry">
-            <mxPoint x="-35" y="23" as="offset" />
+            <mxPoint x="-35" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZxhcZnh28SaxuGn8HQxv-2" value="&lt;b&gt;Business User&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="ZxhcZnh28SaxuGn8HQxv-1" vertex="1">
