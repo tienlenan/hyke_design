@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T16:19:23.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="zOC_C2eGFCvPj70rLzoh" version="15.8.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T16:21:21.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="r5Om-nKIGd8JCN_LatKO" version="15.8.7" type="github" pages="3">
   <diagram id="VvI6xnK7Ubtw1GrGe_8O" name="Get Billing Revenues">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
         <mxCell id="DMf585GbkxXUlghjqEOV-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-three-128.png" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
           <mxGeometry x="680" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DMf585GbkxXUlghjqEOV-12" value="&lt;b&gt;&lt;br&gt;Query path parameters:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;company_id: Id of company&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Query string parameters:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;offset: Index of first item in stores list&lt;/li&gt;&lt;li&gt;limit: Number of items in stores list&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+        <mxCell id="DMf585GbkxXUlghjqEOV-12" value="&lt;b&gt;&lt;br&gt;Body parameters:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;registerId: Id of register&lt;/li&gt;&lt;li&gt;code: Campaign code&lt;/li&gt;&lt;li&gt;orderTotal: Total order amount in customer bill&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
           <mxGeometry x="460" y="443.5" width="280" height="136.5" as="geometry" />
         </mxCell>
         <mxCell id="DMf585GbkxXUlghjqEOV-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DocumentDB&lt;br&gt;&lt;b&gt;TABLE&lt;/b&gt; transactions&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
