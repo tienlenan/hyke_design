@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T16:10:55.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="dhMKSRUhrekvnGu09jSR" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-22T16:19:23.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="zOC_C2eGFCvPj70rLzoh" version="15.8.7" type="github" pages="3">
   <diagram id="VvI6xnK7Ubtw1GrGe_8O" name="Get Billing Revenues">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,56 +64,116 @@
       <root>
         <mxCell id="LzPQcnu16XLlhFh7L4GQ-0" />
         <mxCell id="LzPQcnu16XLlhFh7L4GQ-1" parent="LzPQcnu16XLlhFh7L4GQ-0" />
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LzPQcnu16XLlhFh7L4GQ-1" source="IkaJXvXB6Ntzko8kWSPx-1" target="IkaJXvXB6Ntzko8kWSPx-3">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LzPQcnu16XLlhFh7L4GQ-1" source="IkaJXvXB6Ntzko8kWSPx-1" target="IkaJXvXB6Ntzko8kWSPx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Business User&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Business User&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="110" y="260" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LzPQcnu16XLlhFh7L4GQ-1" source="IkaJXvXB6Ntzko8kWSPx-3" target="IkaJXvXB6Ntzko8kWSPx-6">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LzPQcnu16XLlhFh7L4GQ-1" source="IkaJXvXB6Ntzko8kWSPx-3" target="IkaJXvXB6Ntzko8kWSPx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Stores.tsx&lt;br&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Stores.tsx&lt;br&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="310" y="235" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LzPQcnu16XLlhFh7L4GQ-1" source="IkaJXvXB6Ntzko8kWSPx-6" target="IkaJXvXB6Ntzko8kWSPx-8">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LzPQcnu16XLlhFh7L4GQ-1" source="IkaJXvXB6Ntzko8kWSPx-6" target="IkaJXvXB6Ntzko8kWSPx-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="LzPQcnu16XLlhFh7L4GQ-1" target="IkaJXvXB6Ntzko8kWSPx-12">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="LzPQcnu16XLlhFh7L4GQ-1" target="IkaJXvXB6Ntzko8kWSPx-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;GET&lt;/b&gt; /companies/{company_id}/stores&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF4F8B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;GET&lt;/b&gt; /companies/{company_id}/stores&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF4F8B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="560" y="259" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LzPQcnu16XLlhFh7L4GQ-1" target="IkaJXvXB6Ntzko8kWSPx-13">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LzPQcnu16XLlhFh7L4GQ-1" target="IkaJXvXB6Ntzko8kWSPx-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="852" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;FUNCTION &lt;/b&gt;get_stores&lt;br&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;FUNCTION &lt;/b&gt;get_stores&lt;br&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="810" y="256" width="85" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-one-128.png" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-one-128.png" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="230" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-two-128.png" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-two-128.png" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="480" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-three-128.png" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-three-128.png" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="680" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-12" value="&lt;b&gt;&lt;br&gt;Query path parameters:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;company_id: Id of company&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Query string parameters:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;offset: Index of first item in stores list&lt;/li&gt;&lt;li&gt;limit: Number of items in stores list&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-12" value="&lt;b&gt;&lt;br&gt;Query path parameters:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;company_id: Id of company&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Query string parameters:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;offset: Index of first item in stores list&lt;/li&gt;&lt;li&gt;limit: Number of items in stores list&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="460" y="443.5" width="280" height="136.5" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DocumentDB&lt;br&gt;&lt;b&gt;TABLE&lt;/b&gt; stores&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DocumentDB&lt;br&gt;&lt;b&gt;TABLE&lt;/b&gt; stores&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="813.5" y="450" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-four-128.png" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-four-128.png" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
           <mxGeometry x="866" y="380" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IkaJXvXB6Ntzko8kWSPx-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;boto&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;" vertex="1" parent="LzPQcnu16XLlhFh7L4GQ-1">
+        <mxCell id="IkaJXvXB6Ntzko8kWSPx-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;boto&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;" parent="LzPQcnu16XLlhFh7L4GQ-1" vertex="1">
+          <mxGeometry x="913" y="273.5" width="43" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KLJXaCD1r4Mk-DGN4UcQ" name="Save OPOS History">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zgQaud_D7mGyDaJimi5I-0" />
+        <mxCell id="zgQaud_D7mGyDaJimi5I-1" parent="zgQaud_D7mGyDaJimi5I-0" />
+        <mxCell id="DMf585GbkxXUlghjqEOV-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zgQaud_D7mGyDaJimi5I-1" source="DMf585GbkxXUlghjqEOV-1" target="DMf585GbkxXUlghjqEOV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Cashier&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="110" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zgQaud_D7mGyDaJimi5I-1" source="DMf585GbkxXUlghjqEOV-3" target="DMf585GbkxXUlghjqEOV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;OPOS Web Cashier&lt;br&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="310" y="235" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zgQaud_D7mGyDaJimi5I-1" source="DMf585GbkxXUlghjqEOV-6" target="DMf585GbkxXUlghjqEOV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="zgQaud_D7mGyDaJimi5I-1" target="DMf585GbkxXUlghjqEOV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;POST&amp;nbsp;&lt;/b&gt;/pos/opos/histories&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF4F8B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="560" y="259" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zgQaud_D7mGyDaJimi5I-1" target="DMf585GbkxXUlghjqEOV-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="852" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;FUNCTION &lt;/b&gt;opos_save_history&lt;br&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="810" y="256" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-one-128.png" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="230" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-two-128.png" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="480" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-three-128.png" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="680" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-12" value="&lt;b&gt;&lt;br&gt;Query path parameters:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;company_id: Id of company&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Query string parameters:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;offset: Index of first item in stores list&lt;/li&gt;&lt;li&gt;limit: Number of items in stores list&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="460" y="443.5" width="280" height="136.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DocumentDB&lt;br&gt;&lt;b&gt;TABLE&lt;/b&gt; transactions&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="813.5" y="450" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-four-128.png" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
+          <mxGeometry x="866" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DMf585GbkxXUlghjqEOV-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;boto&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;" vertex="1" parent="zgQaud_D7mGyDaJimi5I-1">
           <mxGeometry x="913" y="273.5" width="43" height="50" as="geometry" />
         </mxCell>
       </root>
