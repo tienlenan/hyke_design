@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:37:37.837Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="C2O5rkxDi-6_gqPYV3Zo" version="16.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:46:54.704Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="amMVvRVsfw8HTKjp2G6j" version="16.2.2" type="github" pages="5">
   <diagram id="VvI6xnK7Ubtw1GrGe_8O" name="Get Billing Revenues">
     <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="18NLYX1uD88q3DwatxkV" name="Create Invoices">
-    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-0" />
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-1" parent="lh4p_q4BZ1CYZbxqO6mq-0" />
@@ -289,7 +289,7 @@
             <mxPoint x="510" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzbTW43cUSJ83smqn8mi-1" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;calibri&amp;#34; , sans-serif , &amp;#34;mongolian baiti&amp;#34; , &amp;#34;microsoft yi baiti&amp;#34; , &amp;#34;javanese text&amp;#34; , &amp;#34;yu gothic&amp;#34; ; font-size: 14.6667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Run every 5th of month at 00:00 UTC&lt;br&gt;Rule pattern 0 7 5 * ? *&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="lh4p_q4BZ1CYZbxqO6mq-1">
+        <mxCell id="PzbTW43cUSJ83smqn8mi-1" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;calibri&amp;#34; , sans-serif , &amp;#34;mongolian baiti&amp;#34; , &amp;#34;microsoft yi baiti&amp;#34; , &amp;#34;javanese text&amp;#34; , &amp;#34;yu gothic&amp;#34; ; font-size: 14.6667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Run every 1st of month at 00:00 UTC&lt;br&gt;Rule pattern 0 7 1 * ? *&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="lh4p_q4BZ1CYZbxqO6mq-1">
           <mxGeometry x="370" y="453.5" width="280" height="76.5" as="geometry" />
         </mxCell>
       </root>
