@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T15:08:06.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="tlaHIiFM9TS9xG26onQr" version="16.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-10T10:25:31.119Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MJazT3bDokdjKLzFT8T8" version="16.2.2" type="github" pages="5">
   <diagram id="VvI6xnK7Ubtw1GrGe_8O" name="Get Billing Revenues">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="18NLYX1uD88q3DwatxkV" name="Create Invoices">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-0" />
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-1" parent="lh4p_q4BZ1CYZbxqO6mq-0" />
@@ -265,13 +265,10 @@
           <mxGeometry x="630" y="249" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-three-128.png" parent="lh4p_q4BZ1CYZbxqO6mq-1" vertex="1">
-          <mxGeometry x="950" y="249" width="40" height="40" as="geometry" />
+          <mxGeometry x="810" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DocumentDB&lt;br&gt;&lt;b&gt;TABLE&lt;/b&gt; business_invoices&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;" parent="lh4p_q4BZ1CYZbxqO6mq-1" vertex="1">
           <mxGeometry x="753.5" y="490" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="xuN5T61hSd3LeFGKAHNI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lh4p_q4BZ1CYZbxqO6mq-1" source="lh4p_q4BZ1CYZbxqO6mq-17" target="xuN5T61hSd3LeFGKAHNI-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lh4p_q4BZ1CYZbxqO6mq-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;boto&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;" parent="lh4p_q4BZ1CYZbxqO6mq-1" vertex="1">
           <mxGeometry x="853" y="295.5" width="43" height="50" as="geometry" />
@@ -289,17 +286,11 @@
         </mxCell>
         <mxCell id="PzbTW43cUSJ83smqn8mi-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="lh4p_q4BZ1CYZbxqO6mq-1" target="PzbTW43cUSJ83smqn8mi-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PzbTW43cUSJ83smqn8mi-1" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;calibri&amp;#34; , sans-serif , &amp;#34;mongolian baiti&amp;#34; , &amp;#34;microsoft yi baiti&amp;#34; , &amp;#34;javanese text&amp;#34; , &amp;#34;yu gothic&amp;#34; ; font-size: 14.6667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Run every 3rd of month at 00:00 UTC&lt;br&gt;Rule pattern 0 7 3 * ? *&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="lh4p_q4BZ1CYZbxqO6mq-1" vertex="1">
           <mxGeometry x="370" y="453.5" width="280" height="76.5" as="geometry" />
-        </mxCell>
-        <mxCell id="xuN5T61hSd3LeFGKAHNI-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/576/cc-stripe-128.png" vertex="1" parent="lh4p_q4BZ1CYZbxqO6mq-1">
-          <mxGeometry x="1040" y="256.5" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="QJUrmV13bzgq7Y3ZYOLa-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/integers/60/number-four-128.png" vertex="1" parent="lh4p_q4BZ1CYZbxqO6mq-1">
-          <mxGeometry x="810" y="413.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
